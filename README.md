@@ -16,7 +16,7 @@ Ce projet, réalisé dans le cadre de l’évaluation, vise à renforcer la séc
 ## Contenu du dépôt
 
 - `biometric_logs.json` : fichier de simulation de logs biométriques (pour ingestion dans ELK)
-- `parsing_logs_elk` : scipt pour parser les logs avant ingestion. (Néanmoins, il y a un mdule déjà intégré avec logtash dans ELK pour parser, ce script est un test car je ne suis pas expert) 
+- `parsing_logs_elk` : scipt pour parser les logs avant ingestion. (Néanmoins, il y a un module déjà intégré avec logtash dans ELK pour parser, ce script est un test car je ne suis pas expert) 
 - `docs/` : documentation technique et fonctionnelle (structure du projet, architecture, procédures, etc.)
 - `tests/` : campagne de tests et preuves d’exécution
 - `README.md` : ce fichier de présentation

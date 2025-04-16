@@ -1,4 +1,4 @@
-# Projet de Sécurisation Biométrique d’un Datacenter Universitaire
+# Projet de sécurisation biométrique d’un datacenter universitaire
 
 Bienvenue sur ce dépôt Git lié au dossier d’admission au **Mastère 2 Expert en Cybersécurité**.
 

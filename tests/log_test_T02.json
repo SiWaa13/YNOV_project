@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2025-06-12T09:41:23",
+        "event_type": "ACCESS_DENIED",
+        "user": "unknown",
+        "auth_method": "badge_only",
+        "source_ip": "192.168.10.33",
+        "log_level": "WARNING",
+        "message": "Tentative d'acc\u00e8s avec badge sans empreinte"
+    }
+]

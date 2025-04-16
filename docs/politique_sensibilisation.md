@@ -35,7 +35,6 @@ Tout utilisateur autorisé à accéder au datacenter s’engage à :
 Chaque utilisateur enrôlé doit suivre une formation courte (30 min), incluant :
 - Présentation du dispositif biométrique
 - Démonstration de l’enrôlement
-- Présentation des engagements RGPD
 - Réponses aux questions fréquentes (via une FAQ dédiée)
 
 À l’issue de la formation, l’utilisateur signe une attestation de sensibilisation.

@@ -16,7 +16,7 @@ Ce projet, réalisé dans le cadre de l’évaluation, vise à renforcer la séc
 ## Contenu du dépôt
 
 - `docs/` : documentation technique et fonctionnelle (structure du projet, architecture, procédures, etc.)
-- `scripts` : regroupe tous les scripts  
+- `scripts/` : regroupe tous les scripts  
 - `tests/` : campagne de tests et preuves d’exécution
 - `README.md` : ce fichier de présentation
 

@@ -2,7 +2,7 @@ import json
 import datetime                 
 import random                   
 
-# Liste d'événements biométriques simulés
+# Liste d'événements biométriques simulés sachant que les adresses IP sont fictives, je ne vais pas dévoiler nos plages d'adresses privées
 events = [
     {"event": "ACCESS_GRANTED", "user": "jdoe", "method": "fingerprint", "ip": "192.168.10.21"},
     {"event": "ACCESS_DENIED", "user": "mdupont", "method": "fingerprint", "ip": "192.168.10.45"},

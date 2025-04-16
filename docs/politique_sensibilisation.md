@@ -17,7 +17,7 @@ Tout utilisateur autorisé à accéder au datacenter s’engage à :
   - Perte ou vol de badge
   - Problème d’enrôlement ou d’identification
   - Suspicion d’usurpation d’identité
-- **Respecter les horaires d’accès autorisés**. Tout accès hors des plages définies est soumis à justification.
+- Respecter les horaires d’accès autorisés. Tout accès hors des plages définies est soumis à justification.
 
 ---
 

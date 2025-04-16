@@ -12,8 +12,8 @@ Cette politique vise à garantir que tout agent accédant physiquement au datace
 Tout utilisateur autorisé à accéder au datacenter s’engage à :
 
 - Ne jamais prêter son badge d’accès à une tierce personne, même temporairement.
-- **Utiliser uniquement ses propres identifiants biométriques**. Toute tentative d’utilisation frauduleuse d’un autre profil sera considérée comme une infraction grave.
-- **Informer immédiatement la DN** en cas de :
+- **Utiliser uniquement ses propres identifiants biométriques. Toute tentative d’utilisation frauduleuse d’un autre profil sera considérée comme une infraction grave.**
+- Informer immédiatement la DN en cas de :
   - Perte ou vol de badge
   - Problème d’enrôlement ou d’identification
   - Suspicion d’usurpation d’identité

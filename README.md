@@ -2,7 +2,7 @@
 
 Bienvenue sur ce dépôt Git lié au dossier d’admission au **Mastère 2 Expert en Cybersécurité**.
 
-Ce projet, réalisé dans le cadre de l’évaluation, vise à renforcer la sécurité physique d’un datacenter universitaire à travers la mise en œuvre d’une **authentification forte biométrique (empreinte digitale)**, intégrée à l’existant (badge, LDAP/AD, VLAN, SIEM ELK).
+Ce projet, réalisé dans le cadre de l’évaluation, vise à renforcer la sécurité physique d’un datacenter universitaire à travers la mise en œuvre d’une authentification forte biométrique (empreinte digitale), intégrée à l’existant (badge Salto, LDAP/AD, VLAN, SIEM ELK).
 
 ## Objectifs du projet
 

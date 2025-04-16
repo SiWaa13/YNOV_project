@@ -1,0 +1,162 @@
+[
+    {
+        "timestamp": "2025-04-16T09:28:49.345324",
+        "event_type": "ERROR",
+        "user": "system",
+        "auth_method": "reader_failure",
+        "source_ip": "192.168.10.10",
+        "log_level": "ERROR"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345340",
+        "event_type": "ENROLLMENT",
+        "user": "arobert",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.11",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345346",
+        "event_type": "ACCESS_GRANTED",
+        "user": "jdoe",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.21",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345352",
+        "event_type": "ERROR",
+        "user": "system",
+        "auth_method": "reader_failure",
+        "source_ip": "192.168.10.10",
+        "log_level": "ERROR"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345358",
+        "event_type": "ERROR",
+        "user": "system",
+        "auth_method": "reader_failure",
+        "source_ip": "192.168.10.10",
+        "log_level": "ERROR"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345364",
+        "event_type": "ACCESS_GRANTED",
+        "user": "jdoe",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.21",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345369",
+        "event_type": "ERROR",
+        "user": "system",
+        "auth_method": "reader_failure",
+        "source_ip": "192.168.10.10",
+        "log_level": "ERROR"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345377",
+        "event_type": "ACCESS_GRANTED",
+        "user": "jdoe",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.21",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345382",
+        "event_type": "ACCESS_GRANTED",
+        "user": "nmartin",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.32",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345385",
+        "event_type": "ACCESS_GRANTED",
+        "user": "jdoe",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.21",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345388",
+        "event_type": "ACCESS_DENIED",
+        "user": "mdupont",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.45",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345391",
+        "event_type": "ACCESS_GRANTED",
+        "user": "nmartin",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.32",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345394",
+        "event_type": "ERROR",
+        "user": "system",
+        "auth_method": "reader_failure",
+        "source_ip": "192.168.10.10",
+        "log_level": "ERROR"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345398",
+        "event_type": "ACCESS_DENIED",
+        "user": "mdupont",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.45",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345402",
+        "event_type": "ACCESS_DENIED",
+        "user": "mdupont",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.45",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345407",
+        "event_type": "ACCESS_DENIED",
+        "user": "mdupont",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.45",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345413",
+        "event_type": "ACCESS_GRANTED",
+        "user": "jdoe",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.21",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345417",
+        "event_type": "ACCESS_DENIED",
+        "user": "mdupont",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.45",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345422",
+        "event_type": "ACCESS_GRANTED",
+        "user": "jdoe",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.21",
+        "log_level": "INFO"
+    },
+    {
+        "timestamp": "2025-04-16T09:28:49.345426",
+        "event_type": "ACCESS_DENIED",
+        "user": "mdupont",
+        "auth_method": "fingerprint",
+        "source_ip": "192.168.10.45",
+        "log_level": "INFO"
+    }
+]
